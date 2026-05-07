@@ -1,1 +1,1 @@
-This project is a professional Excel-based Payroll Management System designed to efficiently manage employee salary processing, deductions, allowances, and payroll reporting. It simulates real-world payroll operations used in HR and finance departments to ensure accurate and organized salary management.
+Manual payroll processing is often time-consuming and prone to errors such as incorrect salary calculations, missing deductions, and inconsistent reporting. This system was developed to reduce these issues and improve payroll accuracy and efficiency.
